@@ -1,0 +1,128 @@
+
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : Firdaousa
+At attempt : 2
+Password   : 123456789
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : Firdaousa
+At attempt : 3
+Password   : 13579135
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : Firdaousa
+At attempt : 4
+Password   : 1234567890
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : Firdaousa
+At attempt : 5
+Password   : 12345678901
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : Firdaousa
+At attempt : 6
+Password   : 123456789012
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 1
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 1
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 1
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 1
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 1
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 1
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 1
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 1
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : 
+At attempt : 1
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 2
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 2
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 2
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 2
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 2
+Password   : 12345678
+Duration   : 
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 2
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 2
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 2
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 2
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 2
+Password   : 12345678
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 2
+Password   : 12345678
+
