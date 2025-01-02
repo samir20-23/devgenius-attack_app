@@ -1,0 +1,11 @@
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : attack_wifi
+At attempt : 2
+Password   : sAmIr@123
+
+DevGenius - Wi-Fi Attack Tool Result
+Target     : ReedRazor
+At attempt : 3
+Password   : 13579135
+
