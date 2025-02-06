@@ -3,7 +3,10 @@ Here’s the content for your `README.md` file:
 ---
 
 # DevGenius - Wi-Fi Attack Tool
-
+ <div id="header" align="center">
+  <img src="https://media1.giphy.com/media/V4NSR1NG2p0KeJJyr5/200.webp?cid=790b76110mnwtaylv0kirmi25dgtludgi85aewtwwte5zhh9&ep=v1_gifs_search&rid=200.webp&ct=g" width="400"/>
+       </a>
+</div>
 <div id="badges" align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=DevGenius+;Attack+Wi-Fi+Tool)](https://git.io/typing-svg)
